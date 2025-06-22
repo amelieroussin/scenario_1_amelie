@@ -1,0 +1,30 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:host {
+  display: block;
+  width: 100%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+div {
+    font-size: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.hidden {
+    display: none;
+}
+
+#enLigne {
+    color: green;
+}
+
+#horsLigne {
+    color: red;
+}

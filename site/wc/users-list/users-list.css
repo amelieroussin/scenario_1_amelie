@@ -1,0 +1,15 @@
+p {
+    font-size: 100px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+table {
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
